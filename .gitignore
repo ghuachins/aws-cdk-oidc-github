@@ -1,0 +1,6 @@
+node_modules
+.idea
+certificate.crt
+*.crt
+cdk.out
+cloudformation-template.yml
